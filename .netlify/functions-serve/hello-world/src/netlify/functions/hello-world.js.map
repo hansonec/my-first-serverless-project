@@ -1,0 +1,8 @@
+{
+  "version": 3,
+  "sources": ["../../home/carlos/veritas/my-first-serverless-project/netlify/functions/hello-world.js"],
+  "sourceRoot": "/tmp/tmp-145304-VuAypsAq456v",
+  "sourcesContent": ["exports.handler = async function() {\n  return {\n    statusCode: 200,\n    body: JSON.stringify({\n      message: 'Hello world!'\n    })\n  }\n}\n"],
+  "mappings": ";AAAA,QAAQ,UAAU,iBAAiB;AACjC,SAAO;AAAA,IACL,YAAY;AAAA,IACZ,MAAM,KAAK,UAAU;AAAA,MACnB,SAAS;AAAA;AAAA;AAAA;",
+  "names": []
+}
